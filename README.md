@@ -11,7 +11,12 @@ Other than python and pygame, no extra libraries or third-party installments nee
 
 ## Backstory
 ```
-You are Taomei who woke up in a room that seems familiar but does not seem to ring any bell. Looking around, you don't see anyone nearby to help you in your predicament at the moment. For some reason, you feel uncomfortable staying any longer where you are and want to get out. However, the door does not seem to open. The only way to get out is playing with the white maltese puppy named Candy in a series of room puzzles. She gives you hints but you are all on your own to answer her riddles. Giving the wrong answer may cost you your life....
+You are Taomei who woke up in a room that seems familiar but does not seem to ring any bell. Looking
+around, you don't see anyone nearby to help you in your predicament at the moment. For some reason,
+you feel uncomfortable staying any longer where you are and want to get out. However, the door does
+not seem to open. The only way to get out is playing with the white maltese puppy named Candy in a
+series of room puzzles. She gives you hints but you are all on your own to answer her riddles.
+Giving the wrong answer may cost you your life....
 ```
 
 ### Goals
